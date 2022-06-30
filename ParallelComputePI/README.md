@@ -4,7 +4,7 @@
 
 ## 项目文件
 
-- `compute_pi_with_python.py`: 纯 Python 实现方法的 Python 代码。
+- `[compute_pi_with_python.py](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/compute_pi_with_python.py)`: 纯 Python 实现方法的 Python 代码。
 
 - `compute_pi_with_threading.py`: Python threading 实现方法的 Python 代码。
 
