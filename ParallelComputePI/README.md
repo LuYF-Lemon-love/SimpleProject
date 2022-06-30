@@ -29,13 +29,18 @@
    - [Result/c_result.md](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/c_result.md): 纯 C 实现方法的结果。
 
    - [Result/compute_pi_with_python.png](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/compute_pi_with_python.png): 纯 Python 实现方法的结果。
+   
    - ![](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/compute_pi_with_python.png)
    
-   - ![](https://cdn.jsdelivr.net/gh/LuYF-Lemon-love/SimpleProject@main/ParallelComputePI/Result/compute_pi_with_python.png)
-
    - [Result/compute_pi_with_threading.png](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/compute_pi_with_threading.png): Python threading 实现方法的结果。
+   
+   - ![](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/compute_pi_with_threading.png)
 
    - [Result/compute_pi_with_ctypes.png](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/compute_pi_with_ctypes.png): ctypes 实现方法的结果。
+   
+   - ![](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/compute_pi_with_ctypes.png)
 
    - [Result/plot_compute_pi_with_c.png](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/plot_compute_pi_with_c.png): 纯 C 实现方法的结果。
+   
+   - ![](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/plot_compute_pi_with_c.png)
    
