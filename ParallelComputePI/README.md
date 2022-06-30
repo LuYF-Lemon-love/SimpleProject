@@ -29,6 +29,7 @@
    - [Result/c_result.md](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/c_result.md): 纯 C 实现方法的结果。
 
    - [Result/compute_pi_with_python.png](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/compute_pi_with_python.png): 纯 Python 实现方法的结果。
+   - ![](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/compute_pi_with_python.png)
    
    - ![](https://cdn.jsdelivr.net/gh/LuYF-Lemon-love/SimpleProject@main/ParallelComputePI/Result/compute_pi_with_python.png)
 
