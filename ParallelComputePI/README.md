@@ -32,23 +32,23 @@
 
    - [Result/compute_pi_with_python.png](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/compute_pi_with_python.png): 纯 Python 实现方法的结果。
    
-   - ![](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/compute_pi_with_python.png)
+   ![](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/compute_pi_with_python.png)
    
    - [Result/compute_pi_with_threading.png](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/compute_pi_with_threading.png): Python threading 实现方法的结果。
    
-   - ![](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/compute_pi_with_threading.png)
+   ![](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/compute_pi_with_threading.png)
 
    - [Result/compute_pi_with_ctypes.png](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/compute_pi_with_ctypes.png): ctypes 实现方法的结果。
    
-   - ![](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/compute_pi_with_ctypes.png)
+   ![](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/compute_pi_with_ctypes.png)
 
    - [Result/plot_compute_pi_with_c.png](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/plot_compute_pi_with_c.png): 纯 C 实现方法的结果。
    
-   - ![](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/plot_compute_pi_with_c.png)
+   ![](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/plot_compute_pi_with_c.png)
 
-- [Docs]([https://github.com/LuYF-Lemon-love/SimpleProject/tree/main/ParallelComputePI/Result](https://github.com/LuYF-Lemon-love/SimpleProject/tree/main/ParallelComputePI/Docs)): 文档目录
+- [Docs](https://github.com/LuYF-Lemon-love/SimpleProject/tree/main/ParallelComputePI/Docs): 文档目录
 
-   - [Docs/利用ctypes并行计算Pi.md]([https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/c_result.md](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Docs/%E5%88%A9%E7%94%A8ctypes%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97Pi.md)): Markdown 版本的文档。
+   - [Docs/利用ctypes并行计算Pi.md](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Docs/%E5%88%A9%E7%94%A8ctypes%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97Pi.md): Markdown 版本的文档。
 
-   - [Docs/利用ctypes并行计算Pi.pdf]([https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/compute_pi_with_python.png](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Docs/%E5%88%A9%E7%94%A8ctypes%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97Pi.pdf)): PDF 版本的文档。
+   - [Docs/利用ctypes并行计算Pi.pdf](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Docs/%E5%88%A9%E7%94%A8ctypes%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97Pi.pdf): PDF 版本的文档。
    
