@@ -2,6 +2,8 @@
 
 本项目介绍了使用 ctypes 库实现 Python 调用 C 编译的动态链接库并行计算 PI 值的方法。并对比了纯 Python、Python threading、ctypes 和 纯 C 四种实现方法的效率。
 
+项目对应的博客：https://www.luyf-lemon-love.space/288226160/。
+
 ## 项目文件
 
 - [compute_pi_with_python.py](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/compute_pi_with_python.py): 纯 Python 实现方法的 Python 代码。
@@ -43,4 +45,10 @@
    - [Result/plot_compute_pi_with_c.png](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/plot_compute_pi_with_c.png): 纯 C 实现方法的结果。
    
    - ![](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/plot_compute_pi_with_c.png)
+
+- [Docs]([https://github.com/LuYF-Lemon-love/SimpleProject/tree/main/ParallelComputePI/Result](https://github.com/LuYF-Lemon-love/SimpleProject/tree/main/ParallelComputePI/Docs)): 文档目录
+
+   - [Docs/利用ctypes并行计算Pi.md]([https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/c_result.md](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Docs/%E5%88%A9%E7%94%A8ctypes%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97Pi.md)): Markdown 版本的文档。
+
+   - [Docs/利用ctypes并行计算Pi.pdf]([https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Result/compute_pi_with_python.png](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/Docs/%E5%88%A9%E7%94%A8ctypes%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97Pi.pdf)): PDF 版本的文档。
    
