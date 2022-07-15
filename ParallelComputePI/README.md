@@ -14,13 +14,13 @@
 
 - [compute_pi_with_ctypes.c](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/compute_pi_with_ctypes.c): ctypes 实现方法的 C 代码。
 
-- [compute_pi_with_ctypes.shell](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/compute_pi_with_ctypes.shell): `compute_pi_with_ctypes.c` 的编译命令。
+- [compute_pi_with_ctypes.sh](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/compute_pi_with_ctypes.sh): `compute_pi_with_ctypes.c` 的编译命令。
 
 - [libcompute_pi.so](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/libcompute_pi.so): `compute_pi_with_ctypes.c` 的编译结果。
 
 - [compute_pi_with_c.c](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/compute_pi_with_c.c): 纯 C 实现方法的代码。
 
-- [compute_pi_with_c.shell](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/compute_pi_with_c.shell): `compute_pi_with_c.c` 的编译命令。
+- [compute_pi_with_c.sh](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/compute_pi_with_c.sh): `compute_pi_with_c.c` 的编译命令。
 
 - [compute_pi_with_c.out](https://github.com/LuYF-Lemon-love/SimpleProject/blob/main/ParallelComputePI/compute_pi_with_c.out): `compute_pi_with_c.c` 的编译结果。
 
